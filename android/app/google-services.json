@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051520652945",
+    "project_id": "flutter-firebase-emulator-demo",
+    "storage_bucket": "flutter-firebase-emulator-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051520652945:android:481374dca42a60121f9130",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_emulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051520652945-8tl20qq27s8baukqj9p9g06l1c58tm5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wdD-XyG2J9zZPmNugLM6FZHDSeI1fWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051520652945-8tl20qq27s8baukqj9p9g06l1c58tm5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
