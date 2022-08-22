@@ -37,6 +37,8 @@ dependencies:
   cloud_firestore: ^3.4.5
 
 dev_dependencies:
+  flutter_driver:
+    sdk: flutter
   integration_test:
     sdk: flutter
   flutter_test:

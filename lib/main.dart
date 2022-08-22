@@ -68,8 +68,9 @@ class _MyHomePageState extends State<MyHomePage> {
                 builder: (context, snapshot) {
                   if (snapshot.hasError) {
                     return Text(
-                      "Somthing is wrong",
+                      "0",
                       style: Theme.of(context).textTheme.headline4,
+                      semanticsLabel: "count",
                     );
                   }
                   return Text(
